@@ -8,10 +8,10 @@ This demo is created by titanium 3.2.0GA
 ## Usage
 Add a android device to your compute.
 
-cd TestShareSDk
-./build.sh
+# cd TestShareSDk
+# ./build.sh
 
-cd TestApp
-./buid.sh
+# cd TestApp
+# ./build.sh
 
 guide: http://bbs.sharesdk.cn/forum.php?mod=viewthread&tid=101&pid=316&page=1&extra=#pid316

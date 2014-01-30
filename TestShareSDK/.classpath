@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="build/.apt_generated"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/apple/android-sdk/platforms/android-10/android.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/android-sdk/add-ons/addon-google_apis-google-10/libs/maps.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/android/titanium.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/android/kroll-common.jar"/>
+	<classpathentry kind="lib" path="/Users/apple/Library/Application Support/Titanium/mobilesdk/osx/3.2.0.GA/android/kroll-apt.jar"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/mframework.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Douban-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Dropbox-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Email-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Evernote-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Facebook-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Flickr-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Foursquare-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-GooglePlus-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Instagram-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-KaiXin-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Linkedin-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-NetEaseMicroBlog-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Pinterest-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-QQ-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-QZone-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Renren-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-ShortMessage-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-SinaWeibo-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-SohuSuishenkan-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-SouhuMicroBlog-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-TencentWeibo-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Tumblr-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Twitter-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-VKontakte-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Wechat-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Wechat-Core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Wechat-Favorite-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Wechat-Moments-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Yixin-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Yixin-Core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-Yixin-Moments-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/ShareSDK-YouDao-2.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
